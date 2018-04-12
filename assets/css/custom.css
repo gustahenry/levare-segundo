@@ -1,0 +1,89 @@
+.header-contato{
+	width: 100%;
+	padding: 0.6rem 0rem 0rem 0rem;
+	color: #fff;
+	font-size: 14px;
+	background-color: #242424;
+}
+.bg-transparente {
+    background-color: transparent !important;
+}
+.pd-brand{
+	padding: 0 15rem;
+}
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link,.navbar-light .navbar-brand{
+	color: #fff;
+}
+.btn-custom {
+	color: #fff;
+	background-color: transparent;
+	border-color: #fff;
+	border-radius: 0;
+}
+.jumbotron{
+	color:#fff;
+	background-color: #bc9839;
+	border-radius: 0px;
+	background-color: transparent;
+	margin-bottom: 0;
+}
+.img-jumbo{
+	background-image: url("../img/background-1.png");
+	background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: none;
+	  background-size: cover;
+}
+.margin-jumbo{
+	padding: 18rem;
+}
+.insperacao{
+	padding: 5rem 0; 
+}
+.instituto-back{
+	background-color: #555;
+	
+}
+.instituto{
+	padding: 5rem 0;
+}
+.testemunho{
+	padding: 5rem 0;
+}
+.contato{
+	padding: 3rem 6rem;
+	color: #fff;
+}
+.background-gradient {
+  background: linear-gradient(to bottom right, #c64652,#c64f4e,#c66047, #c65e48);
+
+}
+.form-costumize{
+	background-color: transparent;
+	color: #fff;
+	border: 0;
+	border-bottom: 2px solid #fff;
+	border-radius: 0;
+}
+.btn-border-white{
+	color: #fff;
+	background-color: transparent;
+	border: 2px solid #fff;
+	border-radius: 5px;
+}
+.footers{
+	color:#fff;
+	background-color: #242424;
+	padding: 3.5rem 0;
+}
+.titulo-footer{
+	color: #bc9839;
+}
+.footers p {
+	font-size: 0.9rem;
+}
+.nav-link{
+	padding: 0;
+	color: #fff;
+}
